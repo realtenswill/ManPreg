@@ -213,6 +213,10 @@ aside img {
         align-items: center;
     }
 
+    .MP1 h2 {
+        font-size: 20px;
+    }
+
     .MP1 img {
         max-width: 300px;
         height: auto;
