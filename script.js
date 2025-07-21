@@ -19,8 +19,8 @@ const name = [
 ];
 
 const randomIndex = Math.floor(Math.random() * image.length);
-const randomImage = image[randomIndex];
-const randomName = name[randomIndex];
+const randomImage = image[5];
+const randomName = name[5];
 
 const imageElement = document.getElementById("RandomPreg");
 imageElement.src = randomImage;
