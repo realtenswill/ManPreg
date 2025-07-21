@@ -177,6 +177,19 @@ aside img {
 
 .MP1 {
     display: flex;
+    text-align: left;
+    align-items: end;
+    flex-direction: column;
+}
+
+.MP1 img {
+    border-radius: 25px;
+    align-items: end;
+}
+
+.MP1 h2 {
+    text-align: start;
+    align-items: start;
 }
 
 @media (max-width: 900px) {
@@ -195,7 +208,7 @@ aside img {
         justify-content: center;
         text-align: center;
         transform: translateX(-18%);
-        width: fit-content;
+        width: fit-content -10%;
         align-items: center;
     }
 }
