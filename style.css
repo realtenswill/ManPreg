@@ -212,6 +212,11 @@ aside img {
         height: auto;
         align-items: center;
     }
+
+    .MP1 img {
+        max-width: 300px;
+        height: auto;
+    }
 }
 
 @media (min-width: 600px) {
