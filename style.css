@@ -207,7 +207,7 @@ aside img {
         display: flex;
         justify-content: center;
         text-align: center;
-        transform: translateX(-5%);
+        transform: translateX(-10%);
         width: 350px;
         height: auto;
         align-items: center;
