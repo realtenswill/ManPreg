@@ -189,6 +189,15 @@ aside img {
         position: static;
         transform: none;
     }
+
+    .logo1 {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        transform: translateX(-18%);
+        width: fit-content;
+        align-items: center;
+    }
 }
 
 @media (min-width: 600px) {
