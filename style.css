@@ -214,7 +214,7 @@ aside img {
     }
 }
 
-@media (min-width: 60em) {
+@media (min-width: 45em) {
     ul {
         font-size: 1.6rem;
     }
