@@ -203,12 +203,13 @@ aside img {
         transform: none;
     }
 
-    .logo1 {
+    .logo1 img{
         display: flex;
         justify-content: center;
         text-align: center;
-        transform: translateX(-18%);
-        width: fit-content -10%;
+        transform: translateX(-5%);
+        width: 400px;
+        height: auto;
         align-items: center;
     }
 }
