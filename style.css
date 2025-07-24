@@ -220,7 +220,7 @@ aside img {
     }
 }
 
-@media (max-width: 60em) {
+@media (max-width: 75em) {
     .Blog1 {
         font-size: 1.5rem;
     }
@@ -235,7 +235,7 @@ aside img {
     }
 }
 
-@media (max-width: 60em) {
+@media (max-width: 75em) {
     .Bod {
         flex-direction: column;
     }
